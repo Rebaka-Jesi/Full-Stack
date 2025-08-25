@@ -1,0 +1,23 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+.blue{
+    padding:20px;
+    background-color:blue;
+    border:5px solid black;
+    margin-right:80%;
+}
+.red{
+    padding:20px;
+    background-color:red;
+    border:5px solid black;
+    margin-left:20%;
+    margin-right:60%;
+}
+.yellow{
+    padding:20px;
+    background-color:yellow;
+    border:5px solid black;
+    margin-right:80%;
+}
